@@ -1,14 +1,15 @@
 {
   "users": [
-    { "id": 1,"name": "govind","status": "Hey i am using fireChat" },
-    { "id": 2,"name": "neha", "status": "Available" },
-    { "id": 3, "name":"pawan", "status": "Sleeping" }
+    { "id": 1,"name": "govind","status": "Hey i am using fireChat" ,"url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg37bTrCf9AoxArf76rbnAxppAIUwUHqnW5YXy-EVksEvTcc3JoA" },
+    { "id": 2,"name": "neha", "status": "Available" , "url" : "https://www.timesheadline.com/wp-content/uploads/2015/08/cute-baby-girl-usa-hd-wallpapers1.jpeg" },
+    { "id": 3, "name":"pawan", "status": "Sleeping" , "url" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEamHOY237aqldQ58UPGcSA2q1Z-C5L9ySa1mkZOcK4gg2ZJvk0k6jJRnzSw" }
   ],
   "image": [
-    { "id": 1, "url": "some comment", "postId": 1 },
-    { "id": 2, "url": "some comment", "postId": 1 }
+    { "id": 1, "age": 16, "title": "college" },
+    { "id": 2, "age": 10, "title": "school" },
+    { "id": 3, "age": 5, "title": "kg" }
   ],
   "profile": {
-    "name": "typicode"
+    "name ": "kirti", "password","123456"
   }
-}
+} 
